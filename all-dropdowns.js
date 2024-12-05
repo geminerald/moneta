@@ -1,4 +1,6 @@
 const menuData = [
+    {    "name": "Dropdowns and Notes",
+         "children": [
     {
         "name": "Usage and Consumption",
         "children": [
@@ -298,5 +300,5 @@ const menuData = [
             }
         ]
     }
-]
+]]}
 ;
