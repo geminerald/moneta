@@ -32,7 +32,10 @@ const menuData = [
                     },
                     {
                         "name": "Follow up usage and consumption query",
-                        "children": []
+                        "children": [{
+                                        "name": "Click here to copy note",
+                                        "isCopyNote": true,
+                                        "tooltip": "Customer called back regarding their usage/spend. "           }]
                     },
                     {
                         "name": "Customer requesting further action",
