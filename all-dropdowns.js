@@ -68,7 +68,7 @@ const menuData = [
                             {
                                 "name": "Click here to copy note",
                                 "isCopyNote": true,
-                                "tooltip": "Customer called in to enquire on the price change. New rates advised. Informed regarding our lowest SUR. Customer happy"
+                                "tooltip": "Customer called in to enquire on the price change. New rates advised. Informed regarding our lowest SUR for PAYG suppliers and advantages of PAYG over Billpay. Customer happy"
                             }
                         ]
                     },
