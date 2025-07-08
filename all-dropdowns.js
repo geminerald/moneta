@@ -1,4 +1,4 @@
-econst menuData = [
+const menuData = [
     {
         "name": "Predefined Content",
         "children": [
