@@ -1,6 +1,6 @@
-const menuData = [
+econst menuData = [
     {
-        "name": "Dropdowns and Notes",
+        "name": "Predefined Content",
         "children": [
             {
                 "name": "Usage and Consumption",
