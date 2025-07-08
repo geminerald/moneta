@@ -3,10 +3,10 @@ const menuData = [
         "name": "Predefined Content",
         "children": [
             {
-                "name": "Usage and Consumption",
+                "name": "App Query",
                 "children": [
                     {
-                        "name": "Usage and consumption check completed",
+                        "name": "Tech Issue",
                         "children": [
                             {
                                 "name": "L1E",
@@ -19,7 +19,7 @@ const menuData = [
                                 ]
                             },
                             {
-                                "name": "L100",
+                                "name": "Billl Issue",
                                 "children": [
                                     {
                                         "name": "Click here to copy note",
